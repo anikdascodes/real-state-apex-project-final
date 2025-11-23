@@ -1,0 +1,83 @@
+Feature,Data Type,Missing Values,Unique Values
+Order,int64,0,2930
+PID,int64,0,2930
+MS SubClass,int64,0,16
+MS Zoning,object,0,7
+Lot Frontage,float64,490,128
+Lot Area,int64,0,1960
+Street,object,0,2
+Alley,object,2732,2
+Lot Shape,object,0,4
+Land Contour,object,0,4
+Utilities,object,0,3
+Lot Config,object,0,5
+Land Slope,object,0,3
+Neighborhood,object,0,28
+Condition 1,object,0,9
+Condition 2,object,0,8
+Bldg Type,object,0,5
+House Style,object,0,8
+Overall Qual,int64,0,10
+Overall Cond,int64,0,9
+Year Built,int64,0,118
+Year Remod/Add,int64,0,61
+Roof Style,object,0,6
+Roof Matl,object,0,8
+Exterior 1st,object,0,16
+Exterior 2nd,object,0,17
+Mas Vnr Type,object,1775,4
+Mas Vnr Area,float64,23,445
+Exter Qual,object,0,4
+Exter Cond,object,0,5
+Foundation,object,0,6
+Bsmt Qual,object,80,5
+Bsmt Cond,object,80,5
+Bsmt Exposure,object,83,4
+BsmtFin Type 1,object,80,6
+BsmtFin SF 1,float64,1,995
+BsmtFin Type 2,object,81,6
+BsmtFin SF 2,float64,1,274
+Bsmt Unf SF,float64,1,1137
+Total Bsmt SF,float64,1,1058
+Heating,object,0,6
+Heating QC,object,0,5
+Central Air,object,0,2
+Electrical,object,1,5
+1st Flr SF,int64,0,1083
+2nd Flr SF,int64,0,635
+Low Qual Fin SF,int64,0,36
+Gr Liv Area,int64,0,1292
+Bsmt Full Bath,float64,2,4
+Bsmt Half Bath,float64,2,3
+Full Bath,int64,0,5
+Half Bath,int64,0,3
+Bedroom AbvGr,int64,0,8
+Kitchen AbvGr,int64,0,4
+Kitchen Qual,object,0,5
+TotRms AbvGrd,int64,0,14
+Functional,object,0,8
+Fireplaces,int64,0,5
+Fireplace Qu,object,1422,5
+Garage Type,object,157,6
+Garage Yr Blt,float64,159,103
+Garage Finish,object,159,3
+Garage Cars,float64,1,6
+Garage Area,float64,1,603
+Garage Qual,object,159,5
+Garage Cond,object,159,5
+Paved Drive,object,0,3
+Wood Deck SF,int64,0,380
+Open Porch SF,int64,0,252
+Enclosed Porch,int64,0,183
+3Ssn Porch,int64,0,31
+Screen Porch,int64,0,121
+Pool Area,int64,0,14
+Pool QC,object,2917,4
+Fence,object,2358,4
+Misc Feature,object,2824,5
+Misc Val,int64,0,38
+Mo Sold,int64,0,12
+Yr Sold,int64,0,5
+Sale Type,object,0,10
+Sale Condition,object,0,6
+SalePrice,int64,0,1032
